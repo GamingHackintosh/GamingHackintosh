@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate speedrunner and gaming enthusiast
 
 Here are some of my notable projects:
 
-- [Novel]([https://github.com/GamingHackintosh/Half-Life-2-Episode-One---Blamod])
+- [Novel](https://github.com/GamingHackintosh/Half-Life-2-Episode-One---Blamod)
 
 ## Contributions
 
