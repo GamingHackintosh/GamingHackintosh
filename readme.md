@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a passionate speedrunner and gaming enthusiast
 
 ## About Me
 
-- 💨 Speedrunner specializing in [***Half-Life 2]
+- 💨 Speedrunner specializing in [***Half-Life 2***]
 - 🎮 Dedicated gamer and enthusiast
-- 🌱 I am currently learning [***Python]
+- 🌱 I am currently learning [***Python***]
 
 
 ## Projects
