@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a passionate speedrunner and gaming enthusiast
 - 🌱 I am currently learning [***Python***]
 
 
+
 ## Projects
 
 Here are some of my notable projects:
