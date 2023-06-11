@@ -1,4 +1,4 @@
-# Speedruner's Profile
+# Novice developer Profile
 
 Welcome to my GitHub profile! I'm a passionate speedrunner and gaming enthusiast. Here you'll find my projects, achievements, and contributions to the speedrunning community.
 
