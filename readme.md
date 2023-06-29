@@ -5,9 +5,7 @@
 </div>
 
 
-<p align="center">
-  <img src="https://github.com/GamingHackintosh/GamingHackintosh/blob/main/github-snake.svg" alt="GitHub Snake Animation" />
-</p>
+
 
 <p align="center">
   <img src="203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" />
@@ -17,7 +15,9 @@
 # Novice developer Profile
 
 Welcome to my GitHub profile! I'm a passionate speedrunner and gaming enthusiast. Here you'll find my projects, achievements, and contributions to the speedrunning community.
-
+<p align="center">
+  <img src="https://github.com/GamingHackintosh/GamingHackintosh/blob/main/github-snake.svg" alt="GitHub Snake Animation" />
+</p>
 ## About Me
 
 - 💨 Speedrunner specializing in [***Half-Life 2***]
