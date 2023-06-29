@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 # Novice developer Profile
 
 Welcome to my GitHub profile! I'm a passionate speedrunner and gaming enthusiast. Here you'll find my projects, achievements, and contributions to the speedrunning community.
