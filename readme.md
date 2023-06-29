@@ -9,6 +9,11 @@
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/GamingHackintosh/GamingHackintosh/blob/main/github-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
+
 
 
 # Novice developer Profile
