@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate speedrunner and gaming enthusiast
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" alt="GIF from GIPHY" autoplay loop>
 </p>
 <p align="center">
-  <a href="https://giphy.com/gifs/JUSTROCKET-justrocket-justrocketteam-justrocketcommunity-Qo2dupDib32rkTY4hX"></a>
+  <a href="https://giphy.com/gifs/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG"></a>
 </p>
 
 
