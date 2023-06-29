@@ -1,5 +1,5 @@
 <div id="badges">
-  <a href="[https://www.youtube.com/channel/UCrKASsAjc_J-ANMUw-ui6iA]">
+  <a href="https://www.youtube.com/channel/UCrKASsAjc_J-ANMUw-ui6iA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
