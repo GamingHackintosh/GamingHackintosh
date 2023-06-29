@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://giphy.com/stickers/Lighit-transparent-s63Jzew1dfO3j6nndV" width="600" height="300"/>
+  <img src="https://giphy.com/stickers/Lighit-transparent-s63Jzew1dfO3j6nndV.gif" width="600" height="300"/>
 </div>
 
 
