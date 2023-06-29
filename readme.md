@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate speedrunner and gaming enthusiast
   <img src="https://github.com/GamingHackintosh/GamingHackintosh/blob/main/github-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
-## AboutME
+## Who am I
 
 - 💨 Speedrunner specializing in [***Half-Life 2***]
 - 🎮 Dedicated gamer and enthusiast
