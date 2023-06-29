@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/GamingHackintosh/GamingHackintosh/blob/main/github-snake.svg" alt="GitHub Snake Animation" />
+  <img src="203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" />
 </p>
 
 
