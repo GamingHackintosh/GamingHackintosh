@@ -12,7 +12,7 @@
 </p>
 
 
-# Novice developer Profile
+# Novice developer
 
 Welcome to my GitHub profile! I'm a passionate speedrunner and gaming enthusiast. Here you'll find my projects, achievements, and contributions to the speedrunning community.
 <p align="center">
