@@ -31,6 +31,8 @@ Welcome to my GitHub profile! I'm a passionate speedrunner and gaming enthusiast
 Here are some of my notable projects:
 
 - [Novel](https://github.com/GamingHackintosh/Half-life-2--Blamod)
+- [Waxom-Hemepage](https://github.com/GamingHackintosh/Waxom-Hemepage-Portfolio-PSD-Template)
+- [Brandi](https://github.com/GamingHackintosh/Meet-Brandi-creative-one-page-template-PSD)
 
 ## Contributions
 
