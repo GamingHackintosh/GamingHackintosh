@@ -40,6 +40,16 @@
 - <img src="icon/vkicon.png" alt="Иконка ВК" width="15"/> VK: [gaminghackintosh](https://vk.com/gaminghackintosh)
 
 - <img src="icon/DSicon.png" alt="Иконка ДС" width="15"/> Discord: [gamehack](https://discord.com/invite/dgxrRMsmjG)
+### 🤝 Социальные сети:
+
+  <div id="badges">
+    <a href="https://www.youtube.com/channel/UCrKASsAjc_J-ANMUw-ui6iA" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
+    </a>
+    <a href="https://vk.com/gaminghackintosh" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
 
 Не стесняйтесь обращаться, если у вас есть вопросы, возможности для сотрудничества или просто хотите поболтать о скоростном беге и играх!
 
