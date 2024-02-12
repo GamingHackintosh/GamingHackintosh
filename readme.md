@@ -37,8 +37,9 @@
 
 ## Связь со мной
 
-- 📧 VK: [gaminghackintosh](https://vk.com/gaminghackintosh)
-- 💬 Discord: [gamehack](https://discord.com/invite/dgxrRMsmjG)
+- <img src="icon/vkicon.png" alt="Иконка ВК" width="15"/> VK: [gaminghackintosh](https://vk.com/gaminghackintosh)
+
+- <img src="icon/DSicon.png" alt="Иконка ДС" width="15"/> Discord: [gamehack](https://discord.com/invite/dgxrRMsmjG)
 
 Не стесняйтесь обращаться, если у вас есть вопросы, возможности для сотрудничества или просто хотите поболтать о скоростном беге и играх!
 
