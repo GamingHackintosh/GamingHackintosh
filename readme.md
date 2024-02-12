@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate speedrunner and gaming enthusiast
 ## Who am I
 
 - 🎮 Dedicated gamer and enthusiast
-- 🌱 I am currently learning [***C++***]
+- 🌱 I am currently learning [***JavaScript***]
 - 💨 Speedrunner specializing in [***Half-Life 2***]
 
 
