@@ -35,11 +35,6 @@
 - [Brandi](https://github.com/GamingHackintosh/Meet-Brandi-creative-one-page-template-PSD)
 
 
-## Связь со мной
-
-- <img src="icon/vkicon.png" alt="Иконка ВК" width="15"/> VK: [gaminghackintosh](https://vk.com/gaminghackintosh)
-
-- <img src="icon/DSicon.png" alt="Иконка ДС" width="15"/> Discord: [gamehack](https://discord.com/invite/dgxrRMsmjG)
 ### 🤝 Социальные сети:
 
   <div id="badges">
