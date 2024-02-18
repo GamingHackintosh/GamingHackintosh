@@ -51,3 +51,5 @@
 Счастливых вам спидранов, а также удачи в программирование!
 
 ![посетители](https://visitor-badge.laobi.icu/badge?page_id=GamingHackintosh.GamingHackintosh)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaminghackintosh&hide=contribs,prs)
