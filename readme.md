@@ -30,7 +30,3 @@
 <a href="https://github-readme-stats.vercel.app/api?username=gaminghackintosh&hide=contribs,prs">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaminghackintosh&b&show_icons=true&theme=gruvbox&"/>
 </a>
-
-&nbsp;
-
-![посетители](https://visitor-badge.laobi.icu/badge?page_id=GamingHackintosh.GamingHackintosh)
