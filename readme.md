@@ -1,9 +1,3 @@
-<div id="badges">
-  <a href="https://www.youtube.com/channel/UCrKASsAjc_J-ANMUw-ui6iA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Бейдж YouTube"/>
-  </a>
-</div>
-
 <p align="center">
   <img src="203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" />
 </p>
