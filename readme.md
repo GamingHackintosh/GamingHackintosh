@@ -20,7 +20,7 @@
 
 Здесь вы можете ознакомиться с моими последними проектами и веб-приложениями - [Перейти](https://gaminghackintosh.ru/)
 
-## Для заинтересованных, вот моя статистика
+## Статистика
 <a href="https://github-readme-stats.vercel.app/api?username=gaminghackintosh&hide=contribs,prs">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaminghackintosh&b&show_icons=true&theme=gruvbox&"/>
 </a>
